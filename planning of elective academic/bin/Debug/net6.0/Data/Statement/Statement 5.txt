@@ -1,0 +1,4 @@
+Stat Suuga Nifg;
+PIr-221;
+9;
+1,0,1,0,1

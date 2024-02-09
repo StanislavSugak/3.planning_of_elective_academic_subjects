@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\bin\Debug\net6.0\planning of elective academic.exe
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\bin\Debug\net6.0\planning of elective academic.deps.json
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\bin\Debug\net6.0\planning of elective academic.runtimeconfig.json
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\bin\Debug\net6.0\planning of elective academic.dll
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\bin\Debug\net6.0\planning of elective academic.pdb
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\obj\Debug\net6.0\planning of elective academic.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\obj\Debug\net6.0\planning of elective academic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\obj\Debug\net6.0\planning of elective academic.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\obj\Debug\net6.0\planning of elective academic.AssemblyInfo.cs
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\obj\Debug\net6.0\planning of elective academic.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\obj\Debug\net6.0\planning of elective academic.dll
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\obj\Debug\net6.0\refint\planning of elective academic.dll
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\obj\Debug\net6.0\planning of elective academic.pdb
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\obj\Debug\net6.0\planning of elective academic.genruntimeconfig.cache
+C:\Users\PC\source\repos\planning of elective academic\planning of elective academic\obj\Debug\net6.0\ref\planning of elective academic.dll
